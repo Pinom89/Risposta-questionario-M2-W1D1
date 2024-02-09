@@ -1,0 +1,11 @@
+Risposta questionario M2/ W1D1
+
+° L'algoritmo è una sequenza di passaggi logici e istruzioni che vengono eseguiti per risolvere un problema specifico o compiere una determinata operazione. 
+
+
+ ° Una variabile è un contenitore simbolico utilizzato per memorizzare e rappresentare dati. In javascript esistono 3 tipi di variabili  'var', 'let', o 'const'.
+
+
+ ° Una variabile è undefined quando è stata dichiarata, ma non è stata assegnata con un valore. Anche le funzioni che non restituiscono esplicitamente un valore restituiscono undefined.
+
+Mentre null è spesso assegnato manualmente per indicare l'assenza di un valore o un riferimento a un oggetto o per azzerare un contenitore. Tuttavia, è importante notare che undefined e null sono entrambi valori "falsy" in JavaScript, il che significa che vengono valutati come false in contesti booleani.
